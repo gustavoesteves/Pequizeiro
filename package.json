@@ -1,0 +1,19 @@
+{
+  "name": "sitemenager",
+  "version": "1.0.0",
+  "description": "This is a menager site of Pequizeiro Records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoesteves/Pequizeiro.git"
+  },
+  "author": "Gustavo Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoesteves/Pequizeiro/issues"
+  },
+  "homepage": "https://github.com/gustavoesteves/Pequizeiro#readme"
+}
