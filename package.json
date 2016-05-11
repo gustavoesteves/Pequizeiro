@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustavoesteves/Pequizeiro/issues"
   },
-  "homepage": "https://github.com/gustavoesteves/Pequizeiro#readme"
+  "homepage": "https://github.com/gustavoesteves/Pequizeiro#readme",
+  "dependencies": {
+    "mongodb": "^2.1.18"
+  }
 }
